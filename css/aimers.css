@@ -27,7 +27,7 @@
     font-size: 40px;
     width: 100%;
     font-family: sans-serif;
-    color: beige;
+    color: rgb(24, 24, 5);
     height: 18vh;
 
  }
@@ -57,7 +57,7 @@
  }
 
  .leftnav li a:hover {
-    color: rgb(164, 180, 204);
+    color: rgba(180, 12, 12);
  }
 
  .leftnav a {
@@ -332,7 +332,7 @@
     .navbar {
        flex-direction: column;
        height: 330px;
-       transition: all 0.7s ease-out;
+       transition: all 0.8s ease-out;
        justify-content: end;
 
     }
